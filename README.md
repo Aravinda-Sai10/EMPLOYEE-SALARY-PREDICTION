@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 Model Details
+## 🧠 Model Details:
 
 - **Algorithm:** Random Forest Classifier
 - **Accuracy:** ~90% on test split
@@ -28,7 +28,7 @@
 
 ----
 
-## Screenshots
+## Screenshots:
 🔘 UI Interface
 📍 File: <img width="1914" height="895" alt="Screenshot 2025-07-23 182701" src="https://github.com/user-attachments/assets/d8a0b29b-ab94-4ad0-9c32-ab920f957b00" />
 
@@ -41,7 +41,7 @@
 
 --
 
-## 👩‍💻 Author
+## 👩‍💻 Author:
 - ARVA ARAVINDA SAI
 - B.Tech 3rd Year – AIML
 - Edunet-IBMSkills Build AIML Internship Project
