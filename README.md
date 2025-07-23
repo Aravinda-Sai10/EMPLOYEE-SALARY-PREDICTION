@@ -1,6 +1,7 @@
 # EMPLOYEE-SALARY-PREDICTION
 
-This project is Streamlit web application that predicts whether an employee earns more than 50K annually based on demographic and employment features. It uses a **Random Forest Classifier**, trained on the cleaned UCI Adult dataset.
+ - This project is Streamlit web application that predicts whether an employee earns more than 50K annually based on demographic and employment features.
+ - It uses a **Random Forest Classifier**, trained on the cleaned UCI Adult dataset.
 ------
 
 
@@ -29,7 +30,6 @@ This project is Streamlit web application that predicts whether an employee earn
 
 ## Screenshots
 🔘 UI Interface
-Replace the image below with your actual screenshot
 📍 File: <img width="1914" height="895" alt="Screenshot 2025-07-23 182701" src="https://github.com/user-attachments/assets/d8a0b29b-ab94-4ad0-9c32-ab920f957b00" />
 
 --
