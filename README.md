@@ -27,17 +27,6 @@ This project is Streamlit web application that predicts whether an employee earn
 
 ----
 
-
-## 🖥️ How to Run This App Locally
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/yourusername/employee-salary-prediction.git
-cd employee-salary-prediction
-```
---
-
 ## Screenshots
 🔘 UI Interface
 Replace the image below with your actual screenshot
