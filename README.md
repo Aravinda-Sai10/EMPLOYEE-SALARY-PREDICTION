@@ -42,7 +42,7 @@ Replace the image below with your actual screenshot
 --
 
 ## 👩‍💻 Author
-- Aravind Sai
+- ARVA ARAVINDA SAI
 - B.Tech 3rd Year – AIML
 - Edunet-IBMSkills Build AIML Internship Project
-- june 2025 – july 2025
+- June 2025 – July 2025
