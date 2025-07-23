@@ -34,15 +34,15 @@ Replace the image below with your actual screenshot
 
 --
 ## 📦 Requirements:
-streamlit
-pandas
-scikit-learn
-joblib
+- streamlit
+- pandas
+- scikit-learn
+- joblib
 
 --
 
 ## 👩‍💻 Author
-Aravind Sai
-B.Tech 3rd Year – AIML
-Edunet-IBMSkills Build AIML Internship Project
-june 2025 – july 2025
+- Aravind Sai
+- B.Tech 3rd Year – AIML
+- Edunet-IBMSkills Build AIML Internship Project
+- june 2025 – july 2025
